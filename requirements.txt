@@ -1,0 +1,4 @@
+gradio==2.3.9
+requests==2.26.0
+Pillow==8.4.0
+numpy==1.21.4
